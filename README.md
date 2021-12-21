@@ -5,3 +5,4 @@
 - node version number: v17.2.0
 - Truffle version number: v5.4.25
 - web3 version number: v1.5.3
+- UML Diagrams: ![diagrams](images/Flowchart.png)
